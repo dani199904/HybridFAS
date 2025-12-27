@@ -1,3 +1,12 @@
+"""
+HybridFAS (SKT-Live V3)
+Multi-Scale CNN + Dual-Token Transformer for Face Anti-Spoofing
+
+Author: Danial Ahmed
+"""
+
+
+
 # ============================================================
 # V2.5 — FULL EXPLICIT ARCHITECTURE (SINGLE CELL)
 # ============================================================
