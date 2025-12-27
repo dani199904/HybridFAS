@@ -1,1 +1,6 @@
 
+batch_size: 32
+epochs: 10
+lr: 0.0003
+image_size: 224
+optimizer: AdamW
