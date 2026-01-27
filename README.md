@@ -1,4 +1,4 @@
-# HybridFAS
+# HybridFAS – Biometric Fraud Detection (Applied ML Project)
 
 HybridFAS is a hybrid **CNN–Transformer** architecture for **Face Anti-Spoofing (FAS)**, designed to learn complementary representations for distinguishing **live** and **spoofed** faces under challenging real-world conditions.
 
